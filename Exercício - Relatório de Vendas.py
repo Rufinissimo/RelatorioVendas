@@ -1,5 +1,5 @@
 
-""" Relatório de Vendas """
+""" Relatório Básico de Vendas """
 
 import re
     
